@@ -63,6 +63,9 @@ define('WP_REDIS_HOST', 'wordpress-redis.rdb82r.0001.euw1.cache.amazonaws.com');
 define('WP_REDIS_PORT', 6379);
 define('WP_REDIS_DATABASE', 0); // Optional, default is 0
 
+define('WP_SITEURL','http://54.194.165.150');
+define('WP_HOME','http://54.194.165.150');
+
 /**#@-*/
 
 /**
