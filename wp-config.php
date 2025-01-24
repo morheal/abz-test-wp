@@ -57,6 +57,10 @@ define('SECURE_AUTH_SALT', '|H_8Z8:an)9An`/l6TV%|Ql9$I*? $`C47k+dCWV)iJ#mDlMlTTF
 define('LOGGED_IN_SALT',   'xg5)+NpCF0?lKZdoq9-4dUxlgUpUp+x#D{z`.2vF!K7x)~^5?@[1Y%xhY3TS)8$3');
 define('NONCE_SALT',       'I{=K0J|ol6C9qH+Ij:5RBB|pj^Mqa+PW33<>ch2*X)H|u+[N+*r1jnr1L(lrDl->');
 
+define('WP_REDIS_HOST', 'wordpress-redis.rdb82r.0001.euw1.cache.amazonaws.com');
+define('WP_REDIS_PORT', 6379);
+define('WP_REDIS_DATABASE', 0); // Optional, default is 0
+
 /**#@-*/
 
 /**
